@@ -14,7 +14,7 @@ By making API calls, I retreived the weather data such as minimum tempreture, ma
 -Show the user each location with markers for each city and display the hotel name, city and tempreture in an integrated map by calling Google maps API.
 
 
-#Travel itinerary
+# Travel itinerary
 -Based on the user's weather preference, four DataFrames are created, one for each city on the itinerary (data is loaded from the custom csv file.
 -The latitude and longitude pairs for each of the four cities are retrieved.
 - A directions layer map between the cities and the travel map is created.
