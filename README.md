@@ -1,4 +1,4 @@
-# Module-6-Challenge
+# Weather Information
 This prject to demostrates weather information for in the world based on auto-generated latitude and longitude for a vacation planner. I parse the generated longitude and latitude to get relevant information about the corresponding location. 
 
 By making API calls, I retreived the weather data such as minimum tempreture, maximum tempreture, weather description along with the city name and nearest hotel. 
